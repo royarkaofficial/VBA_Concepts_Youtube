@@ -1,0 +1,17 @@
+E:\VBA\FirstVBProject\FirstVBProject\bin\Debug\net8.0-windows\FirstVBProject.exe
+E:\VBA\FirstVBProject\FirstVBProject\bin\Debug\net8.0-windows\FirstVBProject.deps.json
+E:\VBA\FirstVBProject\FirstVBProject\bin\Debug\net8.0-windows\FirstVBProject.runtimeconfig.json
+E:\VBA\FirstVBProject\FirstVBProject\bin\Debug\net8.0-windows\FirstVBProject.dll
+E:\VBA\FirstVBProject\FirstVBProject\bin\Debug\net8.0-windows\FirstVBProject.pdb
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.Form1.resources
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.vbproj.GenerateResource.cache
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.AssemblyInfoInputs.cache
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.AssemblyInfo.vb
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.vbproj.CoreCompileInputs.cache
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.dll
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\refint\FirstVBProject.dll
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.pdb
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.genruntimeconfig.cache
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\ref\FirstVBProject.dll
+E:\VBA\FirstVBProject\FirstVBProject\obj\Debug\net8.0-windows\FirstVBProject.Calculator.resources

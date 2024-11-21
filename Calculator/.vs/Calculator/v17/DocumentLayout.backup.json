@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VBA\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383DA7D0-0BCC-44B2-91DF-F0D7261707FA}|Calculator\\Calculator.vbproj|e:\\vba\\calculator\\calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{383DA7D0-0BCC-44B2-91DF-F0D7261707FA}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383DA7D0-0BCC-44B2-91DF-F0D7261707FA}|Calculator\\Calculator.vbproj|e:\\vba\\calculator\\calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{383DA7D0-0BCC-44B2-91DF-F0D7261707FA}|Calculator\\Calculator.vbproj|solutionrelative:calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\VBA\\Calculator\\Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculator\\Form1.vb",
+              "ToolTip": "E:\\VBA\\Calculator\\Calculator\\Form1.vb",
+              "RelativeToolTip": "Calculator\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T02:29:17.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\VBA\\Calculator\\Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculator\\Form1.vb",
+              "ToolTip": "E:\\VBA\\Calculator\\Calculator\\Form1.vb [Design]",
+              "RelativeToolTip": "Calculator\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T02:27:20.084Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
